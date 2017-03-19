@@ -5,6 +5,7 @@
     <classes>
       <class name="com.mercury.testScripts.ValidateCredtials"/>
       <class name="com.mercury.testScripts.FlightReservation"/>
+      <class name="com.mercury.testScripts.TestFile"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
